@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+ul {
+  list-style-type: none;
+  font-size: 20px;
+}
+
+.todo-input-box {
+  height: 40px;
+  width:300px;
+  background-color: #efefef;
+  font-size: 16px;
+  border: none;
+  border-radius: 10px;
+}
+
+#delete-button {
+  background-color: black;
+  margin-left: 10px;
+  height: 30px;
+  width: 100px;
+  color: white;
+  border-radius: 10px
+}
+
+#add-button {
+  background-color: blue;
+  vertical-align: left;
+  margin: 10px;
+  height: 50px;
+  width: 100px;
+  color: white;
+  border-radius: 10px
+}
